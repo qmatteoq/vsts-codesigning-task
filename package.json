@@ -33,7 +33,7 @@
     "plugin-error": "^1.0.1",
     "semver": "^5.5.0",
     "shelljs": "^0.7.5",
-    "tfx-cli": "^0.6.4",
+    "tfx-cli": "^0.22.2",
     "typescript": "^2.9.2",
     "vso-node-api": "^6.5.0"
   },
